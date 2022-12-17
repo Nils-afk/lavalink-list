@@ -3,6 +3,14 @@ title: Lavalink with SSL
 description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
 ---
 
+Hosted by @ [NilsDev#1960](https://github.com/Nils-afk)
+```bash
+Host : 49.12.8.143
+Port : 2003
+Password : "youshallnotpass"
+Secure : true
+```
+
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : ssl.freelavalink.ga
